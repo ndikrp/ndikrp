@@ -16,9 +16,9 @@
 ### :woman_technologist: About Me :
 - :telescope: I’m curently in internship as a Web Developer and contributing to backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Kotlin and Python.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on Leetcode.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-andhika-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/andhika-rizky/)https://www.linkedin.com/in/andhika-rizky/)
 ---
