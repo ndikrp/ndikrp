@@ -18,8 +18,6 @@
 
 - :seedling: Exploring Kotlin and Python.
 
-- :zap: In my free time, I solve problems on Leetcode.
-
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-andhika-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/andhika-rizky/)https://www.linkedin.com/in/andhika-rizky/)
 ---
 
