@@ -14,7 +14,7 @@
 
 ---
 ### :woman_technologist: About Me :
-- :telescope: I’m curently in internship as a Web Developer and contributing to backend for building web applications.
+- :telescope: I’m curently in Binar Bootcamp as a Fullstack Development Student.
 
 - :seedling: Exploring Kotlin and Python.
 
