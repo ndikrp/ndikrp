@@ -8,9 +8,7 @@
 </div>
   I am a Undergraduate Student Who Loves Backend Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia .
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=montserrat&weight=700&size=25&pause=1000&color=00F726&center=true&vCenter=true&random=false&width=435&lines=Andhika+Rizky+Repository" alt="Typing SVG" /></a>
 
 ---
 ### :woman_technologist: About Me :
