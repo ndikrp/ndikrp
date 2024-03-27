@@ -40,4 +40,7 @@ I am an Undergraduate Student Who Loves Backend Development <img src="https://me
 
 ---
 
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ndikrp&theme=dark)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndikrp&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
