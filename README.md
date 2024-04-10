@@ -15,7 +15,7 @@ I am an Undergraduate Student Who Loves Backend Development <img src="https://me
 
 ---
 ### :woman_technologist: About Me :
-- :telescope: I’m curently in Binar Bootcamp as a Fullstack Development Student.
+- :telescope: Currently I am at Binar Bootcamp as a Fullstack Development Student and interning in the position of fullstack web developer at a university institution.
 
 - :seedling: Exploring Kotlin and Python.
 
