@@ -15,7 +15,7 @@ I am an Undergraduate Student Who Loves Backend Development <img src="https://me
 
 ---
 ### :woman_technologist: About Me :
-- :telescope: Currently I am interning in the position of backend developer at a university institution.
+- :telescope: I am currently working on thesis management system as a backend developer to fulfill my undergraduate degree.
 
 - :seedling: Exploring Kotlin and Python.
 
